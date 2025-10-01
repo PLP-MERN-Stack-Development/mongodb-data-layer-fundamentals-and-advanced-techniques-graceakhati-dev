@@ -104,7 +104,7 @@ Task 5: Indexing
 
 Here is the screenshot of my `plp_bookstore.books` collection:
 
-![Compass Screenshot](./compass-screenshot.png)
+![Compass Screenshot](compass-screenshot.png)
 
 
 👩‍💻 Author
